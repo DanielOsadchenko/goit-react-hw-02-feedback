@@ -1,5 +1,10 @@
 .widgetSection {
+  padding-top: 30px;
+
+  width: 100%;
+  text-align: center;
 }
 
 .title {
+  font-size: 40px;
 }

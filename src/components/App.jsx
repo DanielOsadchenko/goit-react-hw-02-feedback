@@ -30,7 +30,8 @@ export class App extends Component {
     const { good, neutral, bad } = this.state;
 
     return <div style={{
-        height: '100vh',
+      paddingTop: '60px',
+      paddingBottom: '60px',
         fontSize: 20,
         color: '#010101',
       backgroundColor: "#e7ecf2",
